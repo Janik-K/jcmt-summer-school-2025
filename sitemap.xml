@@ -5,8 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://janik-k.github.io/jcmt-summer-school-2025/</loc>
   <lastmod>2025-08-06T13:57:10+00:00</lastmod>
@@ -27,6 +25,4 @@
   <lastmod>2025-08-06T13:57:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
