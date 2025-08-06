@@ -8,9 +8,14 @@
 
 
 <url>
-  <loc>https://janik-k.github.io/jcmt-summer-school-2025/index.html</loc>
+  <loc>https://janik-k.github.io/jcmt-summer-school-2025/</loc>
   <lastmod>2025-08-06T13:57:10+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://janik-k.github.io/jcmt-summer-school-2025/index.html</loc>
+  <lastmod>2025-08-06T13:57:10+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://janik-k.github.io/jcmt-summer-school-2025/schedule.html</loc>
